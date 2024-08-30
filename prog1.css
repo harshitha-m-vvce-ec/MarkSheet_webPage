@@ -1,0 +1,31 @@
+table{
+  background-color: gray;
+ font-style: italic;
+ border: solid;
+
+}
+th{
+  background-color: pink;
+  text-align: center;
+
+}
+tr#root1{
+  background-color: #efefef;
+  text-align: center;
+  border-collapse: collapse;
+
+}
+tr#root2{
+  background-color: #ffee;
+  text-align: center;
+
+}
+tr#root3{
+  background-color: #ffeffe;
+  text-align: center;
+
+}tr#root4{
+  background-color: #feefee;
+  text-align: center;
+
+}
